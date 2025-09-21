@@ -7,7 +7,7 @@
     #first {
       background-color: rgb(102, 213, 230);
       width:200px;
-      height: 800px;
+      height: 400px;
       padding: 20px;
       border: 10px solid black;
       position: absolute;
